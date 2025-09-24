@@ -193,7 +193,7 @@ function App() {
 
     {/* Right - Send Message Form */}
     <form
-      action="https://formsubmit.co/krk999901@gmail.com"
+      action="https://formsubmit.co/ravikrishna99221@gmail.com"
 
       method="POST"
       className="bg-zinc-800 p-10 rounded-md"
